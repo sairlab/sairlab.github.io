@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Keio says hi!'
+landing-title: 'Keiko says hi!'
 description: null
 image: null
 author: null
