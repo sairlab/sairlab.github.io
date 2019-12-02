@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sg_page
 title: Elements
 nav-menu: true
 ---
