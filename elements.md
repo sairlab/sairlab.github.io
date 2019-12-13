@@ -2,6 +2,7 @@
 layout: donotdisplay
 title: nnnElements
 nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
