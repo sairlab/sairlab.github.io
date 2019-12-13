@@ -1,5 +1,5 @@
 ---
-layout: sg_page
+layout: donotdisplay
 title: Elements
 nav-menu: false
 ---
