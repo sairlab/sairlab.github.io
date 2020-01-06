@@ -1,7 +1,7 @@
 ---
 layout: donotdisplay
 title: nnnElements
-nav-menu: false
+nav-menu: true
 show_tile: false
 ---
 
