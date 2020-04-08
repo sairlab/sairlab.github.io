@@ -5,6 +5,7 @@ description: Robocentric Indoor Crowd Analysis Dataset
 image: assets/images/ricaBanner.png
 nav-menu: true
 show_tile: true
+show-title: true
 permalink: /rica/
 ---
 
