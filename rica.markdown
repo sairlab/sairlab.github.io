@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: RICA Dataset
 description: Robocentric Indoor Crowd Analysis Dataset
 image: assets/images/ricaBanner.png
