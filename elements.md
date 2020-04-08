@@ -2,6 +2,7 @@
 layout: sg_page
 title: Elements
 nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
