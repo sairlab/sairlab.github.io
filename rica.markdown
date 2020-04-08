@@ -2,7 +2,7 @@
 layout: page
 title: RICA Dataset
 description: Robocentric Indoor Crowd Analysis Dataset
-image: assets/images/frame015000_censored.jpg
+image: assets/images/ricaBanner.png
 nav-menu: true
 show-tile: trues
 permalink: /rica/
