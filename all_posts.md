@@ -1,5 +1,5 @@
 ---
-# layout: allposts
+layout: allposts
 title: All posts
 landing-title: 'All posts'
 nav-menu: false
