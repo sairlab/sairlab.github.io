@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: postspage
 title: About Us
 permalink: /about/
 nav-menu: true
