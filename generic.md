@@ -1,4 +1,3 @@
----
 layout: post
 title: RICA Dataset
 description: Robocentric Indoor Crowd Analysis Dataset

@@ -1,7 +1,7 @@
----
-layout: sg_page
-title: Elements
-nav-menu: false
+
+layout: donotdisplay
+title: nnnElements
+nav-menu: true
 show_tile: false
 ---
 
