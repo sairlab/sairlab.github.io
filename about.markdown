@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+description: Something
 permalink: /about/
 nav-menu: true
 show-title: true
