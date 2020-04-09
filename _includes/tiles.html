@@ -1,6 +1,6 @@
 <section id="one" class="tiles">
   {% for page in site.pages %}
-  {% if site.tiles-source == 'pages' and page.show_tile != false and ( page.title == 'RICA Dataset' or page.title == 'About Us') %}
+  {% if site.tiles-source == 'pages' and page.show_tile != false and showcased == true %}
   <article>
     <span class="image">
       <img src="{{ page.image }}" alt="" />

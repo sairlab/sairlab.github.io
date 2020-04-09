@@ -6,6 +6,7 @@ image: assets/images/ricaBanner.png
 nav-menu: true
 show-title: true
 permalink: /rica/
+showcased: true
 ---
 
 <p>The dataset can be downloaded from this page when it's fully annotated. For parts of the annotated dataset, please contact the authors.</p>
