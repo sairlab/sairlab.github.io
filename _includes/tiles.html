@@ -1,6 +1,6 @@
 <section id="one" class="tiles">
-  {% for page in site.pages limit:site.tiles-count+4 %}
-  {% if site.tiles-source == 'pages' and page.show_tile != false %}
+  {% for page in site.pages %}
+  {% if site.tiles-source == 'pages' and page.show_tile != false and ( page.title == 'RICA Dataset' or page.title == 'About Us') %}
   <article>
     <span class="image">
       <img src="{{ page.image }}" alt="" />
