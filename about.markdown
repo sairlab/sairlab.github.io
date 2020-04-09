@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+image: assets/images/pic09.jpg
 permalink: /about/
 nav-menu: true
 show-title: true
