@@ -1,5 +1,5 @@
 <section id="one" class="tiles">
-  {% for page in site.pages %}
+  {% for page in site.pages limit:site.tiles-count %}
   {% if site.tiles-source == 'pages' and page.show_tile != false and showcased == true %}
   <article>
     <span class="image">
