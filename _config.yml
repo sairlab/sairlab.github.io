@@ -23,11 +23,11 @@ facebook_url:
 github_url: https://github.com/sairlab
 gitlab_url: 
 googleplus_url: 
-instagram_url: TBA
+instagram_url: 
 linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: TBA
+twitter_url: https://twitter.com/SAIRLab
 
 # build settings
 markdown: kramdown
