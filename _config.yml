@@ -1,6 +1,6 @@
 # site settings
-title: SAIR Group
-subtitle: Social AI and Robotics
+title: SAIR Lab
+subtitle: Social AI & Robotics
 email: sairl-team@kcl.ac.uk
 description: This webpage will report on the works of the Social AI and Robotics Group.
 baseurl: "/" # the subpath of your site, e.g. /blog
