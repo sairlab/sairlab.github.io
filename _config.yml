@@ -6,9 +6,9 @@ description:
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: 
-street_address: Strand
-city: London
-state:
+street_address: Department of Engineering
+city: King's College London 
+state: Strand London
 zip_code: WC2R 2LS
 country: United Kingdom
 phone: 
