@@ -1,36 +1,4 @@
-# site settings
-title: SAIR Group
-subtitle: Social AI and Robotics
-email: sairl-team@kcl.ac.uk
-description: This webpage will report on the works of the Social AI and Robotics Group.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author: 
-street_address: Strand
-city: London
-state:
-zip_code: WC2R 2LS
-country: United Kingdom
-phone: 
-
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 2
-
-# social settings
-500px_url:
-facebook_url:
-github_url: https://github.com/sairlab
-gitlab_url: 
-googleplus_url: 
-instagram_url: TBA
-linkedin_url: 
-pinterest_url:
-slack_url:
-twitter_url: TBA
-
-# build settings
+name: SAIR lab
 markdown: kramdown
 
-sass:
-  style: compressed
+permalink: /blog/:year/:month/:day/:title
