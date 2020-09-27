@@ -80,3 +80,16 @@ div.video-responsive iframe{
 	max-height: 315px;
     position:absolute;
 }
+
+.circular--portrait {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.circular--portrait img {
+  width: 100%;
+  height: auto;
+}
