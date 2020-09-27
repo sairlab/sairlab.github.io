@@ -81,4 +81,6 @@ div.video-responsive iframe{
     position:absolute;
 }
 
-
+a .icon:hover {
+    color:   #404040;
+}
